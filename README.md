@@ -1,5 +1,4 @@
-# Arduino
-一些可用arduino实现的小应用的固件代码
+# ROS_Arduino_bridge
 原始文件来自https://github.com/hbrobotics/ros_arduino_bridge
 
 本程序
