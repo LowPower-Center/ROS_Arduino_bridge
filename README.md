@@ -1,6 +1,7 @@
 # ROS_Arduino_bridge
 原始文件来自https://github.com/hbrobotics/ros_arduino_bridge
-注：项目中缺少了部分必要文件，但已丢失，详见issue
+~~注：项目中缺少了部分必要文件，但已丢失，详见issue~~
+最新版本中已经找回文件，可放心使用
 
 本程序
 + 适配了淘宝TB6612驱动板以及对应的直流电机
